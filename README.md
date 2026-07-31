@@ -122,4 +122,56 @@ Apesar das vantagens, ainda existem desafios importantes:
 
 A cultura digital representa uma oportunidade para transformar a educação, desde que a tecnologia seja utilizada de forma crítica, ética e centrada no ser humano. Nesse contexto, o professor assume o papel de mediador da aprendizagem, auxiliando os estudantes no desenvolvimento da autonomia, da cidadania digital e do pensamento crítico.
 
+# 📚 Glossário
+
+| Conceito | Definição | Exemplo de aplicação |
+|-----------|-----------|----------------------|
+| **Cultura Digital** | Conjunto de práticas e interações sociais mediadas pelas tecnologias digitais. | Produção de blogs, podcasts e projetos colaborativos em sala de aula. |
+| **Inteligência Artificial (IA)** | Tecnologia capaz de auxiliar na resolução de problemas e apoiar processos de ensino e aprendizagem. | Tutoria personalizada, geração de atividades e planejamento de aulas. |
+| **Competência Digital** | Conjunto de conhecimentos, habilidades e atitudes para utilizar tecnologias de forma crítica, ética e responsável. | Avaliação de informações na internet e produção de conteúdos digitais. |
+| **TDIC** | Tecnologias Digitais de Informação e Comunicação utilizadas para ampliar as possibilidades de aprendizagem. | Uso de plataformas educacionais, aplicativos e recursos multimídia. |
+| **Educação OnLIFE** | Modelo educacional que integra os ambientes físico e digital em uma experiência contínua de aprendizagem. | Desenvolvimento de atividades que combinam aulas presenciais e recursos online. |
+| **Ensino Híbrido** | Estratégia pedagógica que combina momentos presenciais e atividades mediadas por tecnologias digitais. | Estudos em plataformas virtuais complementando as aulas presenciais. |
+| **BNCC** | Documento que estabelece as competências e habilidades essenciais para a Educação Básica brasileira. | Inclusão da Cultura Digital como competência geral da educação. |
+| **Gamificação** | Uso de elementos dos jogos para aumentar o engajamento e a motivação dos estudantes. | Sistemas de pontuação, desafios e recompensas em atividades escolares. |
+| **Cibercultura** | Cultura resultante das interações sociais promovidas pelas tecnologias digitais e pela internet. | Participação em comunidades virtuais de aprendizagem e colaboração. |
+| **Educação Online** | Modalidade de ensino realizada por meio da internet, utilizando ambientes virtuais de aprendizagem. | Aulas síncronas e assíncronas em plataformas educacionais. |
+
+# 💡 Prompts Reutilizáveis
+
+Os prompts abaixo foram elaborados durante os testes realizados no NotebookLM e podem ser reutilizados em futuras revisões sobre o tema.
+
+## 📖 1. Resumir conteúdos
+Resuma o conceito de Cultura Digital e o papel do professor como mediador crítico, destacando a transição de um modelo que apenas fornece informação para um que ensina a avaliar e recriar o conhecimento.
+
+**Objetivo:** obter uma visão geral rápida do conteúdo.
+
+---
+
+## 📑 2. Comparar documentos
+Compare a BNCC com o Marco Civil da Internet, destacando seus objetivos, diferenças, semelhanças e contribuições para a Educação Digital.
+
+**Objetivo:** identificar como diferentes documentos tratam o mesmo tema.
+
+---
+
+## ❓ 3. Criar questões
+Elabore três questões sobre o impacto da Inteligência Artificial na Educação, incluindo oportunidades, desafios e gabarito comentado.
+
+**Objetivo:** revisar o conteúdo por meio de exercícios.
+
+---
+
+## 🧠 4. Gerar flashcards
+Crie cinco flashcards sobre os conceitos de Educação OnLIFE, Competência Digital, Neutralidade de Rede, Aprendizagem Cooperativa e Inclusão Digital.
+
+**Objetivo:** facilitar revisões rápidas antes de avaliações.
+
+---
+
+## 🗺️ 5. Elaborar mapas mentais
+Organize os desafios da Cultura Digital na Educação em um mapa mental, relacionando desigualdade digital, ética na IA, inclusão digital e inovação pedagógica.
+
+**Objetivo:** visualizar a relação entre os principais conceitos estudados.
+
 Projeto desenvolvido por Eduarda durante o desafio da Dio.
