@@ -181,4 +181,7 @@ O desenvolvimento deste caderno temático permitiu compreender como o NotebookLM
 Durante o projeto, foi possível observar que a qualidade das respostas depende diretamente da elaboração dos prompts. A experiência reforçou a importância da engenharia de prompts, da curadoria de fontes confiáveis e da análise crítica das respostas produzidas pela Inteligência Artificial.
 
 Este repositório representa não apenas a entrega de um desafio da DIO, mas também um material de consulta que poderá ser utilizado em futuras revisões sobre Tecnologia e Cultura Digital na Educação.
+
+
+---
 Projeto desenvolvido por Eduarda durante o desafio da Dio.
