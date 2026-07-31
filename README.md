@@ -27,7 +27,8 @@ Este projeto tem como objetivo:
 
 ## 📖 Tema do Caderno
 
-Tecnologia e Cultura Digital na Educação
+Tecnologia e Cultura Digital na Educação. 
+
 Este caderno reúne conteúdos sobre o uso das tecnologias digitais no processo de ensino-aprendizagem, abordando conceitos como cultura digital, competências digitais, Inteligência Artificial na educação, metodologias ativas e os desafios da transformação digital nas escolas.
 
 ## 📂 Estrutura do Projeto
