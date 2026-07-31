@@ -76,4 +76,50 @@ O NotebookLM identificou semelhanças e diferenças entre os documentos, relacio
 
 Solicitar comparações entre fontes permite identificar diferentes perspectivas sobre um mesmo assunto.
 
+# 📖 Miniguia de Estudos
+
+## Resumo
+
+### 📌 Introdução
+
+A transformação digital modificou profundamente a forma como as pessoas aprendem, ensinam e compartilham conhecimento. No contexto educacional brasileiro, documentos como a Base Nacional Comum Curricular (BNCC) e o Marco Civil da Internet orientam o desenvolvimento de competências digitais, promovendo o uso ético, crítico e responsável das tecnologias.
+
+### 💡 Principais Conceitos
+
+- **Cultura Digital:** conjunto de práticas sociais e culturais mediadas pelas tecnologias digitais.
+- **Competência Digital:** conhecimentos, habilidades e atitudes necessários para utilizar tecnologias de forma crítica e consciente.
+- **Educação OnLIFE:** modelo educacional que integra os ambientes físico e digital em uma experiência contínua de aprendizagem.
+- **Neutralidade da Rede:** princípio que garante igualdade no acesso às informações disponíveis na internet.
+
+### 🏫 Aplicações na Educação
+
+As tecnologias digitais podem ser utilizadas para:
+
+- personalização da aprendizagem com Inteligência Artificial;
+- implementação de metodologias ativas e ensino híbrido;
+- criação de narrativas digitais por professores e estudantes;
+- fortalecimento das políticas públicas de inclusão digital.
+
+### ✅ Benefícios
+
+Entre os principais benefícios observados estão:
+
+- democratização do acesso ao conhecimento;
+- incentivo à colaboração e à autoria dos estudantes;
+- desenvolvimento das competências digitais;
+- apoio ao planejamento pedagógico por meio da Inteligência Artificial.
+
+### ⚠️ Desafios
+
+Apesar das vantagens, ainda existem desafios importantes:
+
+- desigualdade no acesso às tecnologias;
+- necessidade de formação continuada dos professores;
+- questões éticas relacionadas ao uso da IA e à privacidade;
+- utilização inadequada das tecnologias apenas para reproduzir métodos tradicionais de ensino.
+
+### 🎯 Conclusão
+
+A cultura digital representa uma oportunidade para transformar a educação, desde que a tecnologia seja utilizada de forma crítica, ética e centrada no ser humano. Nesse contexto, o professor assume o papel de mediador da aprendizagem, auxiliando os estudantes no desenvolvimento da autonomia, da cidadania digital e do pensamento crítico.
+
 Projeto desenvolvido por Eduarda durante o desafio da Dio.
