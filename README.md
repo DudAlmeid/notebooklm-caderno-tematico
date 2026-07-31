@@ -38,4 +38,4 @@ Tecnologia e Cultura Digital na Educação
 
 
 
-Projeto desenvolvido por **Eduarda** durante o desafio da DIO.
+Projeto desenvolvido por Eduarda durante o desafio da Dio.
