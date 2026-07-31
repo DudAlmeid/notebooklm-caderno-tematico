@@ -8,8 +8,8 @@ Para a construção deste caderno temático foram selecionadas fontes oficiais e
 
 ## Fontes utilizadas
 
-1. Base Nacional Comum Curricular (BNCC)
-2. Plano Nacional de Educação (PNE)
+1. Base Nacional Comum Curricular (BNCC) https://basenacionalcomum.mec.gov.br/
+2. Plano Nacional de Educação (PNE) https://www.gov.br/mec/pt-br/pne
 3. Competências para a Cultura Digital (CIEB)
 4. UNESCO – Inteligência Artificial na Educação
 5. Artigo científico sobre Cultura Digital na Educação
@@ -174,4 +174,12 @@ Organize os desafios da Cultura Digital na Educação em um mapa mental, relacio
 
 **Objetivo:** visualizar a relação entre os principais conceitos estudados.
 
+
+# ✅ Conclusão
+
+O desenvolvimento deste caderno temático permitiu compreender como o NotebookLM pode ser utilizado como uma ferramenta de aprendizagem ativa, auxiliando na organização de informações, análise de documentos e produção de materiais de estudo.
+
+Durante o projeto, foi possível observar que a qualidade das respostas depende diretamente da elaboração dos prompts. A experiência reforçou a importância da engenharia de prompts, da curadoria de fontes confiáveis e da análise crítica das respostas produzidas pela Inteligência Artificial.
+
+Este repositório representa não apenas a entrega de um desafio da DIO, mas também um material de consulta que poderá ser utilizado em futuras revisões sobre Tecnologia e Cultura Digital na Educação.
 Projeto desenvolvido por Eduarda durante o desafio da Dio.
