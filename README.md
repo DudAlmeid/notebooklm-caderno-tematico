@@ -1,7 +1,6 @@
 # 📚 Caderno Temático com NotebookLM
 
 Projeto desenvolvido como parte do desafio da DIO para explorar o uso do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento.
-
 # 📚 Curadoria de Fontes
 
 Para a construção deste caderno temático foram selecionadas fontes oficiais e materiais acadêmicos confiáveis, garantindo maior qualidade às respostas geradas pelo NotebookLM.
