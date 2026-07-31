@@ -1,0 +1,2 @@
+# notebooklm-caderno-tematico
+Projeto desenvolvido para o desafio da DIO utilizando o NotebookLM como ferramenta de estudo baseada em Inteligência Artificial.
